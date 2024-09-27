@@ -18,4 +18,4 @@ A doubly linked list is represented in C as the pointer to the head (i.e. first 
 
 ### References
 
-[geeksforgeeks - Introduction to Linear Data Structures](hhttps://www.geeksforgeeks.org/c-program-to-implement-singly-linked-list/)
+[geeksforgeeks - Doubly Linked List in C](https://www.geeksforgeeks.org/doubly-linked-list-in-c/)
